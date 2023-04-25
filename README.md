@@ -48,4 +48,4 @@ Here are some ideas to get you started:
 
 <h2> GIT </h2>
 
-![Snake animation](https://github.com/VasiliAnoshinv/VasiliAnoshin/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/VasiliAnoshin/VasiliAnoshin/blob/output/github-contribution-grid-snake.svg)
