@@ -47,5 +47,6 @@ Here are some ideas to get you started:
 </p>
 
 <h2> GIT </h2>
-
+<!--
 ![Snake animation](https://github.com/VasiliAnoshin/VasiliAnoshin/blob/output/github-contribution-grid-snake.svg)
+-->
