@@ -45,8 +45,7 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="45" height="45"/>
           
 </p>
-
-<h2> GIT </h2>
 <!--
+<h2> GIT </h2>
 ![Snake animation](https://github.com/VasiliAnoshin/VasiliAnoshin/blob/output/github-contribution-grid-snake.svg)
 -->
