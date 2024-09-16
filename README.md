@@ -53,3 +53,4 @@ Here are some ideas to get you started:
 <h2> GIT </h2>
 ![Snake animation](https://github.com/VasiliAnoshin/VasiliAnoshin/blob/output/github-contribution-grid-snake.svg)
 -->
+![image](https://github.com/user-attachments/assets/ff976ad2-70c1-4a5a-868f-2b20a51fb157)
