@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d62a4bc4d1293389e3d3181fb2f5c30c84b7a3be6c53cc82f3f9c0de559bef19/68747470733a2f2f692e67697068792e636f6d2f6d656469612f7132313747556e664b416d4a6c46636a42582f67697068792e77656270">
           <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 </a>
-      <img src="https://github.com/user-attachments/assets/f24b117e-9357-49c0-8a02-bcae06260d5a" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+      <img src="https://github.com/user-attachments/assets/0c06e780-d8b9-4b30-a8f9-df9cde611892" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 </p>
 
 <!--
